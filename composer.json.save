@@ -1,0 +1,13 @@
+{
+    "name": "Modelo Configuração INI",
+    "description": "",
+    "authors": [
+        {
+            "name": "Philipe Allan Almeida",
+            "email": "philipeph3@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.2.8"
+    }
+}
